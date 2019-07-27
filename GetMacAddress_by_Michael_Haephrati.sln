@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetHDSerial_by_Michael_Haephrati", "GetMacAddress_by_Michael_Haephrati\GetMacAddress_by_Michael_Haephrati.vcxproj", "{8E26EF66-E0F8-40CE-B6C8-C02F0500E4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E26EF66-E0F8-40CE-B6C8-C02F0500E4AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E26EF66-E0F8-40CE-B6C8-C02F0500E4AA}.Debug|Win32.Build.0 = Debug|Win32
+		{8E26EF66-E0F8-40CE-B6C8-C02F0500E4AA}.Release|Win32.ActiveCfg = Release|Win32
+		{8E26EF66-E0F8-40CE-B6C8-C02F0500E4AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {E5E512A0-5D97-4B3E-8B44-217AC631579B}
+	EndGlobalSection
+EndGlobal
